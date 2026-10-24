@@ -70,8 +70,8 @@ No runnable application is available yet. Runnable code will appear in `src/` in
 
 ## Links
 
-- **YouTrack project:** 
-- **Prototype (Figma):** 
+- **YouTrack project:*https://243133.youtrack.cloud/projects/DIP/agiles/204-1/current* 
+- **Prototype (Figma):*https://www.figma.com/design/MlMOyGHB4PIq2YxyFqcJoP/LeafDoc-%E2%80%94-UX-prototype-%C2%B7-Pre-defense-1?node-id=2-673&t=G4Pcsao3tTQjfuYN-1* 
 
 ## Repository Structure
 
