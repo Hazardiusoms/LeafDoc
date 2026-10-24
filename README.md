@@ -1,7 +1,5 @@
 # LeafDoc: Crop Disease Detection from Leaf Images
 
-> Working title. Replace with your project name.
-
 LeafDoc is an information system that identifies diseases of agricultural crops from photographs of leaves. A user uploads a leaf photo and receives the most likely diagnosis, a confidence level, and basic recommendations for treatment and prevention.
 
 ## Problem Statement
